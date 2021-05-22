@@ -7,6 +7,9 @@
 > - Cart page
 > - Product page
 
+### [Live Preview](https://afnanelhussini.github.io/Make-me-blossom/)
+
+
 Tools used :
 - HTML
 - CSS
